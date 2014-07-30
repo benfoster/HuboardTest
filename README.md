@@ -1,12 +1,6 @@
 HuboardTest
 ===========
 
-Fix for issue #8.
+Addinfn the recurring forms feature
 
-Doing a bit more work to keep the boss happy.
-
-flskdjfklsdjfs
-
-Setting up the host
-
-Something for 15
+Done some tests
