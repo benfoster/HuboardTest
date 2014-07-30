@@ -9,4 +9,4 @@ flskdjfklsdjfs
 
 Setting up the host
 
-Sometning foor 15
+Something for 15
