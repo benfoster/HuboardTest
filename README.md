@@ -1,10 +1,6 @@
 HuboardTest
 ===========
 
-Changing all the things!
+Fix for issue #8.
 
-Test
-
-Sprintly? 
-
-Another change
+Doing a bit more work to keep the boss happy.
